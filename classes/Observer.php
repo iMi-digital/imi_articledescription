@@ -10,7 +10,7 @@ class Observer
         global $objPage;
         if (!$objRow->multiMode) { // display single article only?
             if (!empty($objRow->description)) {
-                $objPage->description = 'foo: ' . $objRow->description;
+                $objPage->description = $objRow->description;
             }
         }
     }

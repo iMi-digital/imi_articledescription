@@ -25,6 +25,8 @@ Contao Modul imi_articledescription
 
 Dieses Modul fügt Artikelen eine Meta-Description hinzu
 
+Repository Link: https://contao.org/de/extension-list/view/imi_articledescription.21.de.html
+
 Installation
 ------------
 

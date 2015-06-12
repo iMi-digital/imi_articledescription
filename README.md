@@ -13,7 +13,7 @@ Install the module as usual using the Contao extension respository in the backen
 About Us
 =================
 
-[iMi digital GmbH](http://www.imi.de/) offers several types of Contao related open source modules. If you are confrontated with any bugs, you may want to open an issue here.
+[iMi digital GmbH](http://www.imi.de/) offers several Contao related open source modules. If you are confronted with any bugs, you may want to open an issue here.
 
 In need of support or an implementation of a modul in an existing system, [free to contact us](mailto:digital@iMi.de). In this case, we will provide full service support for a fee.
 
